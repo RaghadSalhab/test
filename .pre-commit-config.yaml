@@ -9,6 +9,8 @@ repos:
         pass_filenames: false
 
 
+
+
       - id: ruff-format
         name: ruff format
         entry: uv run ruff format
